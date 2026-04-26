@@ -1,0 +1,94 @@
+{
+  "name": "Abdul Rahman J H",
+  "title": "Senior Frontend Developer",
+  "tagline": "Crafting high-performance Angular apps with clean code, modern patterns & seamless UX",
+  "email": "jhabdulrahman@gmail.com",
+  "phone": "+91 7358727578",
+  "linkedin": "https://www.linkedin.com/in/jhabdulrahman/",
+  "github": "https://github.com/jhabdulrahman",
+  "location": "Chennai, Tamil Nadu, India",
+  "about": "A dedicated Angular Developer with 3.8+ years of experience building and maintaining dynamic web applications. I specialize in state management, UI performance optimization, accessibility (NVDA), responsive design, and backend integration. I thrive in agile environments, love mentoring junior developers, and am passionate about GenAI & LLM-powered innovations. Currently expanding into Full-Stack Development while delivering business-driven digital solutions.",
+  "skills": [
+    { "name": "Angular 14–17", "level": 95, "category": "Frontend" },
+    { "name": "TypeScript", "level": 90, "category": "Language" },
+    { "name": "JavaScript", "level": 88, "category": "Language" },
+    { "name": "React", "level": 75, "category": "Frontend" },
+    { "name": "RxJS / NgRx", "level": 85, "category": "Frontend" },
+    { "name": "HTML5 / CSS3", "level": 92, "category": "Frontend" },
+    { "name": "Tailwind CSS", "level": 82, "category": "Styling" },
+    { "name": "Bootstrap / Angular Material", "level": 88, "category": "Styling" },
+    { "name": "REST APIs", "level": 85, "category": "Integration" },
+    { "name": "Jest / Jasmine", "level": 80, "category": "Testing" },
+    { "name": "SQL Server / MySQL", "level": 65, "category": "Database" },
+    { "name": "Git / GitHub / GitLab", "level": 88, "category": "Tools" },
+    { "name": "Docker", "level": 60, "category": "DevOps" },
+    { "name": "Azure (AZ-900)", "level": 65, "category": "Cloud" },
+    { "name": "Gen AI / LLMs", "level": 72, "category": "AI" }
+  ],
+  "experience": [
+    {
+      "company": "Zuci Systems",
+      "role": "Senior Software Engineer",
+      "period": "Jan 2022 – Present",
+      "location": "Chennai, Tamil Nadu, India",
+      "highlights": [
+        "Developed and maintained dynamic Angular 14–17 and React applications for enterprise clients.",
+        "Mentored three junior developers through code reviews, pair programming, and agile guidance.",
+        "Achieved 95% unit test code coverage using Jest and Jasmine for reliability and quality.",
+        "Led frontend optimization efforts improving scalability and reducing load times significantly.",
+        "Actively integrated GenAI tools and LLM-based workflows into development pipelines.",
+        "Participated in agile ceremonies: stand-ups, sprint planning, and retrospectives."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Fee Management System",
+      "description": "Enterprise financial platform covering Reports, Agreements, FD, and FLDG modules. Built complex reactive forms, dynamic data tables with pagination/filtering/sorting, and RxJS-based async data streams.",
+      "tech": ["Angular 14", "TypeScript", "Bootstrap", "RxJS"],
+      "duration": "2 years 1 month",
+      "domain": "Finance",
+      "highlights": ["90% unit test coverage", "Legacy code integration", "Mentored 2 junior devs"],
+      "link": ""
+    },
+    {
+      "name": "Raisin – Nonprofit Digital Fundraising",
+      "description": "Multilingual digital fundraising platform with Account, Transaction, and My Giving modules. Implemented NgRx state management, NVDA accessibility, English/French localization, and secure auth flows.",
+      "tech": ["Angular 17", "NgRx", "Tailwind CSS", "TypeScript", "Jest", "Angular Material"],
+      "duration": "1 year 6 months",
+      "domain": "Nonprofit",
+      "highlights": ["95% unit test coverage", "NVDA accessibility", "English & French localization"],
+      "link": ""
+    },
+    {
+      "name": "Reward Management",
+      "description": "React-based reward tracking app featuring Customer Reward List, Invoice, and User Profile. Integrated Chart.js for interactive data visualizations and used React Hooks for efficient state management.",
+      "tech": ["React", "JavaScript", "Bootstrap", "Chart.js"],
+      "duration": "5 months",
+      "domain": "Retail",
+      "highlights": ["Interactive charts", "Modular component design", "Responsive UI"],
+      "link": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Applications (MCA)",
+      "institution": "Jamal Mohamed College – Bharathidasan University",
+      "period": "Jul 2020 – Apr 2022",
+      "location": "Trichy, Tamil Nadu, India",
+      "cgpa": "8.9 / 10"
+    },
+    {
+      "degree": "Bachelor of Science in Computer Science (BSc CS)",
+      "institution": "Jamal Mohamed College – Bharathidasan University",
+      "period": "Jun 2017 – May 2020",
+      "location": "Trichy, Tamil Nadu, India",
+      "cgpa": "7.8 / 10"
+    }
+  ],
+  "certifications": [
+    { "name": "AZ-900: Azure Fundamentals", "issuer": "Microsoft" },
+    { "name": "JavaScript Developer", "issuer": "W3Schools.com" },
+    { "name": "Generative AI and ChatGPT", "issuer": "Udemy" }
+  ]
+}
