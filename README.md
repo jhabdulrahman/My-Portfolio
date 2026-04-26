@@ -4,7 +4,7 @@ A modern, production-ready personal portfolio built with **Angular 20+**, using 
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # 1. Install dependencies
@@ -20,7 +20,7 @@ npm run build
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 portfolio/
@@ -54,7 +54,7 @@ portfolio/
 
 ---
 
-## ✨ Angular 20+ Features Used
+## Angular 20+ Features Used
 
 | Feature | Where |
 |---------|-------|
@@ -68,7 +68,7 @@ portfolio/
 
 ---
 
-## 🎨 Design System
+## Design System
 
 - **Fonts**: Space Grotesk (headings) + JetBrains Mono (code/labels) + DM Sans (body)
 - **Colors**: Indigo accent `#5046e5` (light) / `#7c6efd` (dark)
@@ -77,7 +77,7 @@ portfolio/
 
 ---
 
-## 🔧 Customization
+## Customization
 
 To update your portfolio data, **only edit `public/resume.json`** — no component code needed.
 
@@ -92,7 +92,7 @@ To update your portfolio data, **only edit `public/resume.json`** — no compone
 
 ---
 
-## 🚢 Deployment
+## Deployment
 
 ```bash
 npm run build
